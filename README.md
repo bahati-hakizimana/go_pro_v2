@@ -1,1 +1,1 @@
-# go_pro_v2
+# in this version we learn all about Go variable and declaration
